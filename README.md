@@ -1,3 +1,5 @@
 # KnowledgeEngineering
 
-![Group Photo]([https://example.com/photo.jpg](https://photos.app.goo.gl/9gtqytfdqQBELxNw9))
+![Group Photo]((https://photos.app.goo.gl/9gtqytfdqQBELxNw9))
+
+<img src="[https://photos.app.goo.gl/9gtqytfdqQBELxNw9" alt="Alt text" width="400" />
